@@ -1,9 +1,9 @@
-import 'returnn.ts'
-import 'returnnn.ts'
-import 'returnnnn.ts'
-import 'returnnnnn.ts'
-import 'returnnnnnn.ts'
-import 'returnnnnnnn.ts'
+#include  'returnn.c'
+#include  'returnnn.c'
+#include  'returnnnn.c'
+#include  'returnnnnn.c'
+#include  'returnnnnnn.c'
+#include  'returnnnnnnn.c'
 function returnnnnnnnn(){
     function returnnnnnn(){
         function returnnnnnn(){
