@@ -1,9 +1,3 @@
-#include "returnn.ts"
-#include "returnnn.ts"
-#include "returnnnn.ts"
-#include "returnnnnn.ts"
-#include "returnnnnnn.ts"
-#include "returnnnnnnn.ts"
 void qwerty(){
     int q = 1;
     int w = 2;
